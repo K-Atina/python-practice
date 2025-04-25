@@ -22,6 +22,7 @@ def reverse_the_string(str):
     #We then change it from elements to a full string
     reversed_string =''.join(reversed_element_list)
     
+    #We return the reversed list 
     return reversed_string
 
 print(reverse_the_string(intial_string))

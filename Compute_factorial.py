@@ -12,6 +12,7 @@ def factorial(num):
     #Will multiply the number given from 1 till its own value
     #We put n+1 because the range method ignores the "end" value
     for i in range (1,num+1):
+        #This will multiply and store the values as they are multiplied
         result*= i
     return result
 
