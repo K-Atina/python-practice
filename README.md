@@ -1,2 +1,3 @@
-# python-practice
-Data Structures Assignment 1
+# Atina Kellie Moraa - 156976
+# Assigned Tasks
+
