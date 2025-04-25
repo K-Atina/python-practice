@@ -7,7 +7,7 @@ def even_or_odd_number(num):
         #Will check if the number has a reminder of 0 when divided by 2
         print(f"{num} is even!")
     else:
-        #If the conditional is not true,the print statement will run
+        #If the conditional is not true,the print statement below will run
         print(f"{num} is odd!")
         
 even_or_odd_number(21)
